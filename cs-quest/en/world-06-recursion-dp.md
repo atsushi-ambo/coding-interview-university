@@ -108,7 +108,7 @@ MIT 6.006's 4 back-to-back DP lectures are the complete walkthrough guide to the
 
 ---
 
-## └️ Quests
+## ⚔️ Quests
 
 ### Quest 1: Basic Training on the Dunes (20 XP)
 
