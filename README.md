@@ -3,6 +3,11 @@
 > 🎮 **日本語のゲーム版コースができました!** このリポジトリの内容を「RPG × 本格 CS 講座」として再構成した
 > [CS Quest 〜コンピュータサイエンス冒険譚〜](cs-quest/README.md) で、XP を稼ぎながらボスを倒して学べます。
 
+> 🛰️ **New side project:** [FDE Academy](fde-curriculum/README.md) — a complete ~29-week curriculum
+> for becoming a **Forward Deployed Engineer** at OpenAI, Anthropic, Google, Palantir, and beyond:
+> production engineering, system design, LLM apps (RAG/agents/MCP), evals, enterprise deployment,
+> customer skills, capstones, and interview prep.
+
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
