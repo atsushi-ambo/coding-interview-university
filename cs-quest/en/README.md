@@ -158,6 +158,24 @@ This maps one-to-one with the advanced undergraduate curriculum of famous univer
 | [GRAD 4: The Theory of Everything](grad-04-architecture-parallel.md) | pipelining, cache coherence, Amdahl, GPU | Berkeley CS152 / CMU 15-418 | 4 weeks |
 | [🎓 Graduation Ceremony](grad-finale.md) | integration of all CS domains, underlying themes, final title | — | — |
 
+### 📚 Appendices — Problem Banks with Full Solutions (aiming for "solvable without looking anything up")
+
+Once the lectures in each world give you the concepts, this is where you **get your hands dirty**. Beyond the problem statements, every problem comes with the **approach, complete solution code, complexity derivation, and pitfalls**. A problem bank that never abandons you at the question.
+
+| Appendix | Content | Maps to |
+|---|---|---|
+| [Appendix I: The Grand Coding Problem Bank](appendix-01-coding-problems.md) | Real-world problems on arrays, strings, linked lists, trees, graphs, DP, heaps, binary search, and bit manipulation, with complete solution code and explanations | Worlds 1–6 |
+| [Appendix II: The Grand System Design Problem Bank](appendix-02-system-design.md) | URL shortener, rate limiter, news feed, chat, distributed ID generation — from requirements to design decisions and trade-offs | GRAD 1 |
+| [Appendix III: The Grand Architecture Problem Bank](appendix-03-architecture-problems.md) | Cache, pipelining, branch prediction, Amdahl, floating point — with numeric calculations and performance diagnosis | World 7 / GRAD 4 |
+| [Appendix IV: The Complete Implementation-Quest Solution Set](appendix-04-implementation-solutions.md) | **Reference solutions (all tested)** for dynamic array, linked list, hash table, BST, heap, sorts, graph, DP, calculator language, and DFA. For checking your 💻 implementation quests | Worlds 2–6, 12, 13 |
+| [Appendix V: The Concept Flashcard Deck](appendix-05-flashcards.md) | Q&A cards to memorize every world's core concepts via **active recall + spaced repetition**. A tool for "actually internalizing the concepts" | All worlds |
+
+### 🧭 Important Reading
+
+| Document | Content |
+|---|---|
+| [The Honest Roadmap](honest-roadmap.md) | **How far this course really takes you.** A candid map of what you gain, what's still missing, and how to close the gap (math, labs, projects) |
+
 ### Bonus
 
 | World | Content | Estimate |
